@@ -1,4 +1,4 @@
-# miniproject_1
+# UNIVERSITY EV_SHUTTLE BUS TRACKING
 
 A new Flutter project.
 
